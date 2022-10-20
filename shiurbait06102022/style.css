@@ -1,0 +1,49 @@
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaW0kC64AyX19Kmgxworpw8H_Vb0QeHZlUlqSugXKBR94Hfv4hxhRpvogRAkqAhkc_MfA&usqp=CAU);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.menu {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  height: 2200px;
+
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.header1 {
+  height: 200px;
+
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.card {
+  width: 32%;
+  margin: 10px;
+  float: left;
+  font-size: 25px;
+  text-align: center;
+  font-weight: bold;
+}
+#myBtn {
+  position: fixed;
+  bottom: 350px;
+  border: none;
+  outline: none;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+}
+
+.footer {
+  background-color: rgb(240, 238, 235);
+  height: 50px;
+  text-align: center;
+  font-size: 50px;
